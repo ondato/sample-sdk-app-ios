@@ -1,0 +1,22 @@
+PODS:
+  - OndatoSDKiOS (1.6.9)
+
+DEPENDENCIES:
+  - "OndatoSDKiOS (from `git@github.com:ondato/ondato-sdk-ios.git`, tag `1.6.9`)"
+
+EXTERNAL SOURCES:
+  OndatoSDKiOS:
+    :git: "git@github.com:ondato/ondato-sdk-ios.git"
+    :tag: 1.6.9
+
+CHECKOUT OPTIONS:
+  OndatoSDKiOS:
+    :git: "git@github.com:ondato/ondato-sdk-ios.git"
+    :tag: 1.6.9
+
+SPEC CHECKSUMS:
+  OndatoSDKiOS: 4c230e2a0be9c887a1df3651c7e55abe7db3f5e0
+
+PODFILE CHECKSUM: c15089769d0eff7f46b6095346fbb90e319cbe3d
+
+COCOAPODS: 1.10.1
